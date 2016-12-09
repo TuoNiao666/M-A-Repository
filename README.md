@@ -1,2 +1,2 @@
 # M-A-Repository
-Project of Mutual-Assistance 
+这是一个个人项目
